@@ -1,0 +1,11 @@
+//
+//  Debug-Config.xcconfig
+//  Weather
+//
+//  Created by  Adele Shavalieva on 13/11/2019.
+//  Copyright © 2019  Adele Shavalieva. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+OPENWEATHER_API_KEY = ADD_YOUR_API_KEY
