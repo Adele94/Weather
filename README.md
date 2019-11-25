@@ -14,8 +14,9 @@ cd Weather
 pod install
 ```
 
-Then open Weather.xcworkspace to run the project.
-Set your own OPENWEATHER_API_KEY in `Debug-Config.xcconfig`. 
+Set your own OPENWEATHER_API_KEY in `Debug-Config.xcconfig`.
+
+Then open Weather.xcworkspace to run the project. 
 
 ## Note
 VPN may be required
