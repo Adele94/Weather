@@ -28,7 +28,6 @@
 		B58D2195237C794500886F60 /* ForecastTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58D2194237C794500886F60 /* ForecastTableViewCell.swift */; };
 		B58D2199237C79EE00886F60 /* ForecastTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58D2198237C79EE00886F60 /* ForecastTableViewController.swift */; };
 		B58D219D237C7E3100886F60 /* ForecastViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58D219C237C7E3100886F60 /* ForecastViewModel.swift */; };
-		B5C60C72238B141100063C62 /* ScreenRecord.gif in Resources */ = {isa = PBXBuildFile; fileRef = B5C60C71238B141100063C62 /* ScreenRecord.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,7 +55,6 @@
 		B58D2194237C794500886F60 /* ForecastTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastTableViewCell.swift; sourceTree = "<group>"; };
 		B58D2198237C79EE00886F60 /* ForecastTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastTableViewController.swift; sourceTree = "<group>"; };
 		B58D219C237C7E3100886F60 /* ForecastViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastViewModel.swift; sourceTree = "<group>"; };
-		B5C60C71238B141100063C62 /* ScreenRecord.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = ScreenRecord.gif; path = ../../../Downloads/ScreenRecord.gif; sourceTree = "<group>"; };
 		DF78D4413574BA8702C13481 /* Pods-Weather.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Weather.debug.xcconfig"; path = "Target Support Files/Pods-Weather/Pods-Weather.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -128,7 +126,6 @@
 		B557751F236B5B8200796594 /* Weather */ = {
 			isa = PBXGroup;
 			children = (
-				B5C60C71238B141100063C62 /* ScreenRecord.gif */,
 				B55160A723859AD4004EC2DB /* city_list.json */,
 				B55160A4237EF3DE004EC2DB /* OfferModel */,
 				B55160A1237EF2D8004EC2DB /* NetworkManager */,
@@ -256,7 +253,6 @@
 				B5577543236B8FCE00796594 /* Podfile in Resources */,
 				B5577534236B5FA500796594 /* Forecast.json in Resources */,
 				B58D218E237C2ABE00886F60 /* Debug-Config.xcconfig in Resources */,
-				B5C60C72238B141100063C62 /* ScreenRecord.gif in Resources */,
 				B557752B236B5B8500796594 /* LaunchScreen.storyboard in Resources */,
 				B551609A237EC629004EC2DB /* Assets.xcassets in Resources */,
 				B55160A823859AD4004EC2DB /* city_list.json in Resources */,
